@@ -1,0 +1,23 @@
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center; /* Center vertically */
+    align-items: center; /* Center horizontally */
+    height: 100vh; /* Full height of the viewport */
+    margin: 0; /* Remove default margin */
+    font-family: Arial, sans-serif; /* Optional: Set a font for the page */
+  }
+  
+  h1 {
+    margin-bottom: 20px; /* Space between the title and the clock */
+  }
+  
+  #clock {
+    font-size: 100px; /* Larger font size for the clock */
+    padding: 20px; /* Optional: Add some padding */
+    background-color: lightgray; /* Optional: Add a background color */
+    border-radius: 10px; /* Optional: Add rounded corners */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Optional: Add a subtle shadow */
+    border: 5px solid 
+  }
+  
